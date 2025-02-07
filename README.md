@@ -9,8 +9,8 @@
 
 <img src="wp2791026 (1).jpg" alt="GitHub Banner" width="100%" />
   
-# SE student at @AASTMT with expertise in ReactJS, Flutter dev, and UI/UX design, striving to become a Full Stack Engineer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# Hello im Hamza Mamdouh or Sam a SE student at @AASTMT with expertise in ReactJS, Flutter dev, and UI/UX design, striving to become a Full Stack Engineer 👋🏼:
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hamza-m-510464242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-m-510464242" height="30" width="40" /></a>

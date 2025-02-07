@@ -1,7 +1,8 @@
-<img src="wp2791026 (1).jpg" alt="GitHub Banner" width="100%" />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=JS,Python+and+C%2B%2B+Master;A+Man's+Dream+Will+Never+Die!;S+A+M" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=;A+Man's+Dream+Will+Never+Die!;S+A+M" alt="Typing SVG" />
   </a>
+<img src="wp2791026 (1).jpg" alt="GitHub Banner" width="100%" />
+  
 # Hello World!, I'm Tobi, a German Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
 

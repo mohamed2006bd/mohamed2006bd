@@ -35,7 +35,10 @@
   <!-- GitHub Stats with Fire Colors -->
   <img src="https://github-readme-stats.vercel.app/api?username=hamzamamdouh298&show_icons=true&locale=en&theme=tokyonight&title_color=FF4500&text_color=FFD700&icon_color=FF6347&bg_color=000000" alt="hamzamamdouh298" />
 
+  <br><br> <!-- Adds space between the two images -->
+
   <!-- GitHub Streak Stats with Fire Colors -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzamamdouh298&" alt="hamzamamdouh298" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzamamdouh298&theme=highcontrast&ring=FF4500&fire=FF4500&currStreakLabel=FFD700&currStreakNum=FF6347" alt="hamzamamdouh298" />
 </div>
+
 

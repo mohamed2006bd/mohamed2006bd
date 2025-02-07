@@ -1,6 +1,6 @@
  <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=600&lines=;If+you+are+not+ready+to+die+for+it,;put+the+word+freedom+out+of+your+vocabulary.;S+A+M" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=600&lines=;If+you+are+not+ready+to+die+for+it,;put+the+word+freedom+out+of+your+vocabulary.;Saddam Hussien" alt="Typing SVG" />
   </a>
 </div>
 

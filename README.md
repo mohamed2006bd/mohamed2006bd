@@ -9,7 +9,11 @@
 
 <img src="wp2791026 (1).jpg" alt="GitHub Banner" width="100%" />
   
-# Hello im Hamza Mamdouh or Sam a SE student at @AASTMT with expertise in ReactJS, Flutter dev, and UI/UX design, striving to become a Full Stack Engineer 👋🏼:
+<h1 align="center" style="color: #FF4500;">🔥 Hello, I'm Hamza Mamdouh (Sam) 🔥</h1>
+<h3 align="center" style="color: #FF4500;">
+  A SE student at @AASTMT with expertise in ReactJS, Flutter development, and UI/UX design, striving to become a Full Stack Engineer. 🚀🔥
+</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

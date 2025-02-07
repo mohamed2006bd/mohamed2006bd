@@ -30,7 +30,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzamamdouh298&show_icons=true&locale=en&layout=compact" alt="hamzamamdouh298" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzamamdouh298&show_icons=true&locale=en" alt="hamzamamdouh298" /></p>
 

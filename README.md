@@ -32,12 +32,8 @@
 </picture>
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzamamdouh298&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1&title_color=FF4500&text_color=FFD700&icon_color=FF6347" height="150" alt="stats graph"  />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzamamdouh298&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2&title_color=FF4500&text_color=FFD700&icon_color=FF6347" height="150" alt="languages graph"  />
-
+  
+ 
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=hamzamamdouh298&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3&ring=FF4500&fire=FF4500&currStreakLabel=FFD700&currStreakNum=FF6347" height="150" alt="streak graph"  />
 

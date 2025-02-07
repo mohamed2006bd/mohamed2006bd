@@ -41,9 +41,7 @@
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=hamzamamdouh298&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3&ring=FF4500&fire=FF4500&currStreakLabel=FFD700&currStreakNum=FF6347" height="150" alt="streak graph"  />
 
-  <!-- Trophy Stats -->
-  <img src="https://github-profile-trophy.vercel.app?username=hamzamamdouh298&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-
+ 
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzamamdouh298&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>

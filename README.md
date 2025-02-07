@@ -9,7 +9,7 @@
 
 <img src="wp2791026 (1).jpg" alt="GitHub Banner" width="100%" />
   
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
+# Software Engineering student at AASTMT with expertise in ReactJS, Flutter dev, and UI/UX design, striving to become a Full Stack Engineer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
